@@ -12,3 +12,293 @@ from PyQt5.QtCore import *
 
 # :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+QAbstractAnimation
+#
+
+QAbstractEventDispatcher
+#
+
+QAbstractItemModel
+#
+
+QAbstractListModel
+#
+
+QAbstractNativeEventFilter
+#
+
+QAbstractProxyModel
+#
+
+QAbstractState
+#
+
+QAbstractTableModel
+#
+
+QAbstractTransition
+#
+
+QAnimationGroup
+#
+
+QBasicTimer
+#
+
+QBitArray
+#
+
+QBuffer
+#
+
+
+QByteArray
+# массив байтов. преобразуется в тип bytes
+	Base64Options()
+	#
+
+
+QByteArrayMatcher
+#
+
+QChildEvent
+#
+
+QCollator
+#
+
+QCollatorSortKey
+#
+
+
+QCommandLineOption
+#
+	Flags()
+	#
+
+
+QCommandLineParser
+#
+
+ComponentFormattingOptions
+#
+
+QCoreApplication
+#
+
+QCryptographicHash
+#
+
+QDataStream
+#
+
+QDate
+#
+
+QDateTime
+#
+
+QDeadlineTimer
+#
+
+
+QDir
+#
+	Filters()
+
+
+QDirIterator
+#
+	IteratorFlags()
+	#
+
+
+DropActions
+#
+
+QDynamicPropertyChangeEvent
+#
+
+QEasingCurve
+#
+
+QElapsedTimer
+#
+
+QEvent
+#
+
+QEventLoop
+#
+
+QEventLoopLocker
+#
+
+QEventTransition
+#
+
+QFile
+#
+
+
+QFileDevice
+#
+	FileHandleFlags()
+	#
+
+
+QFileInfo
+#
+
+QFileSelector
+#
+
+QFileSystemWatcher
+#
+
+QFinalState
+#
+
+QGenericArgument
+#
+
+QGenericReturnArgument
+#
+
+QHistoryState
+#
+
+QIODevice
+#
+
+QIdentityProxyModel
+#
+
+QItemSelection
+#
+
+QItemSelectionModel
+#
+
+QItemSelectionRange
+#
+
+QJsonDocument
+#
+
+QJsonParseError
+#
+
+QJsonValue
+#
+
+
+QLibrary
+#
+	LoadHints()
+	#
+
+
+QLibraryInfo
+#
+
+QLine
+#
+
+QLineF
+#
+
+QLocale
+#
+
+QLockFile
+#
+
+QMargins
+#
+
+QMarginsF
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+QRegularExpression
+#
+	MatchOptions()
+	#
+
+
+QStandardPaths
+#
+	LocateOptions()
+	#
+
+
+QUrl
+# 
+	FormattingOptions()
+	#
+
+
+
+QTextCodec
+#
+	ConversionFlags()
+	#
+	ConverterState()
+	#
+
+
+
+QTextBoundaryFinder
+#
+	BoundaryReasons()
+	#
+
+
+Qt
+#
+	Alignment()
+	#
+	ApplicationStates()
+	#
+	DockWidgetAreas()
+	#
+	DropActions()
+	#
+	Edges()
+	#
+	FindChildOptions()
+	#
+	GestureFlags()
+	#
+	ImageConversionFlags()
+	#
+	InputMethodHints()
+	#
+	InputMethodQueries()
+	#
+	ItemFlags()
+	#
+	KeyboardModifiers()
+	#
+	MatchFlags()
+	#
