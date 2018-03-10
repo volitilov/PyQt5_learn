@@ -220,6 +220,53 @@ QMargins
 QMarginsF
 #
 
+QMessageAuthenticationCode
+#
+
+QMessageLogContext
+#
+
+QMessageLogger
+#
+
+QMetaClassInfo
+#
+
+QMetaEnum
+#
+
+QMetaMethod
+#
+
+QMetaObject
+#
+
+QMetaProperty
+#
+
+QMetaType
+#
+
+QMimeData
+#
+
+QMimeDatabase
+#
+
+QMimeType
+#
+
+QModelIndex
+#
+
+QMutex
+#
+
+QMutexLocker
+#
+
+QObject
+#
 
 
 
@@ -236,8 +283,10 @@ QMarginsF
 
 
 
-
-
+QLocale
+#
+	NumberOptions()
+	#
 
 
 QRegularExpression
@@ -274,6 +323,12 @@ QTextBoundaryFinder
 	#
 
 
+QTextStream
+#
+	NumberFlags()
+	#
+
+
 Qt
 #
 	Alignment()
@@ -301,4 +356,8 @@ Qt
 	KeyboardModifiers()
 	#
 	MatchFlags()
+	#
+	mouseButtons()
+	#
+	MouseEventFlags()
 	#
